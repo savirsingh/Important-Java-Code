@@ -1,5 +1,5 @@
-# Learn Java
-### How I learned Java in 24 hours.
+# Important Java Code
+### Good for beginners and forgetful people.
 
 
 Just memorize these programs and you'll be able to code in Java with ease.
